@@ -1,4 +1,5 @@
 # 아로새김 Arosaegim
+
 ![](https://img.shields.io/badge/version-1.0.0-green.svg) ![](https://img.shields.io/badge/created__at-20.05.06-yellow.svg) ![](https://img.shields.io/badge/updated__at-20.05.06-blue.svg) 
 
 ## 프로젝트는 [saegim.me](https://saegim.me) 에서 확인하실 수 있습니다.
@@ -10,13 +11,15 @@
 > 1. 동사 무늬나 글자 따위를 또렷하고 정교하게 파서 새기다.
 > 2. 동사 마음속에 또렷이 기억하여 두다.
 > 3. 동사 뚜렷하게 기록하여 나타내다.
-> 유의어 : 간직하다, 간수하다, 기억하다
+>    유의어 : 간직하다, 간수하다, 기억하다
 
 [![아로새김 홍보 영상](http://img.youtube.com/vi/7IQtZqChqbU/0.jpg)](https://youtu.be/7IQtZqChqbU)
 
 _위 이미지를 클릭하면 영상을 볼 수 있습니다._
 
 우리는 모두 잊지 않고 싶은 **순간** 을 만납니다. 그 숲의 향기, 그 날의 밤하늘, 그 곳의 분위기. 특별한 순간을 영원히 기억하고 싶은 우리를 위해 찰나를 새기듯이 기록할 수 있는 서비스 **아로새김** 입니다.
+
+
 
 ## 1. 아로새김 = 기억 + W3W + 카카오맵
 
@@ -45,6 +48,8 @@ W3W는 이러한 점에서 시작한 서비스로, 3m x 3m로 지구상의 공�
 무작위로 부여된 W3W 주소의 특성상, 지도를 조금만 옮겨도 전혀 다른 단어를 발견할 수 있습니다.
 
 아로새김에서 새김을 작성하며 내 주변 아름다운 단어를 가진 주소를 발견하는 재미를 느낄 수 있습니다.
+
+
 
 ---
 
@@ -133,6 +138,8 @@ $ npm run build
 1. [Maven] - [Update Project]
 2. [Run As] - [Spring Boot App]
 
+
+
 ---
 
 ## 3. Demo
@@ -141,6 +148,8 @@ $ npm run build
 
 _위 이미지를 클릭하면 영상을 볼 수 있습니다._
 
+
+
 <table width="100%">
   <tr>
     <th>메인페이지</th>
@@ -148,13 +157,14 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/UDQ29OA.gif" width="300" alt="메인페이지">
+      <img src="readme_img/main.gif" width="300" alt="메인페이지">
     </td>
     <td>
-      <img src="https://i.imgur.com/NrEVZTM.gif" width="300" alt="리스트">
+      <img src="readme_img/list.gif" width="300" alt="리스트">
     </td>
   </tr>
 </table>
+
 
 <table width="100%">
   <tr>
@@ -163,13 +173,14 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/3D6gYYL.gif" width="300" alt="맵">
+      <img src="readme_img/mapview.gif" width="300" alt="맵">
     </td>
     <td>
-      <img src="https://i.imgur.com/I2NumLN.gif" width="300" alt="로드뷰">
+      <img src="readme_img/loadview.gif" width="300" alt="로드뷰">
     </td>
   </tr>
 </table>
+
 
 <table width="100%">
   <tr>
@@ -178,13 +189,14 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/ciGSQcO.gif" width="300" alt="필터">
+      <img src="readme_img/filter.gif" width="300" alt="필터">
     </td>
     <td>
-      <img src="https://i.imgur.com/JT2cugf.gif" width="300" alt="새김 작성">
+      <img src="readme_img/write.gif" width="300" alt="새김 작성">
     </td>
   </tr>
 </table>
+
 
 <table width="100%">
   <tr>
@@ -193,24 +205,30 @@ _위 이미지를 클릭하면 영상을 볼 수 있습니다._
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/fNMKvbT.gif" width="300" alt="마이페이지">
+      <img src="readme_img/mypage.gif" width="300" alt="마이페이지">
     </td>
     <td>
-      <img src="https://i.imgur.com/1WiU2sc.gif" width="300" alt="히스토리">
+      <img src="readme_img/history.gif" width="300" alt="히스토리">
     </td>
   </tr>
 </table>
 
+
+
+
 ## 팀원
+
 - 양찬우
 - 최솔지 
 - 김건호
 - 김신재
 - 전경윤
 
+
+
 ## 개발 일정
 
-- 노션 링크 : https://www.notion.so/a7afc1c35e534bf9b67be69c7bdf0fd1?v=04e758783a644a8ead7f215c7485b8e3
+- Notion 링크 : https://www.notion.so/a7afc1c35e534bf9b67be69c7bdf0fd1?v=04e758783a644a8ead7f215c7485b8e3
 
-  ![image-20200515142041810|medium](readme_img/image-20200515142041810.png)
+  ![image-20200515142041810|medium](C:/Users/SinJ/Desktop/MyGit/Github/MyProjects/아로새김/readme_img/image-20200515142041810.png)
   ![image-20200515142208557](readme_img/image-20200515142208557.png)
